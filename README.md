@@ -1,0 +1,1 @@
+# Numeric-Palindrome-Equilateral-Triangle
